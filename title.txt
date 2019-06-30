@@ -1,0 +1,4 @@
+#Membuat title
+<head>
+<title><data:blog.title/></title>
+</head>
